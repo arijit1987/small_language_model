@@ -1,8 +1,4 @@
-Token Usage:
-GitHub Tokens: 3335
-LLM Input Tokens: 3345
-LLM Output Tokens: 1316
-Total Tokens: 7996
+
 
 FileTree:
 .gitignore
